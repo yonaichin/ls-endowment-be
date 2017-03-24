@@ -16,6 +16,7 @@
     "body-parser": "^1.17.1",
     "colors": "^1.1.2",
     "cors": "^2.8.1",
+    "exceljs": "^0.4.2",
     "express": "^4.15.2",
     "fs-extra": "^2.1.2",
     "lodash": "^4.17.4",
