@@ -1,0 +1,1136 @@
+[
+  {
+    "criteria": "DO1S99男00",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "00",
+    "ins_fee": "3432"
+  },
+  {
+    "criteria": "DO1S99男01",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "01",
+    "ins_fee": "3476"
+  },
+  {
+    "criteria": "DO1S99男02",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "02",
+    "ins_fee": "3514"
+  },
+  {
+    "criteria": "DO1S99男03",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "03",
+    "ins_fee": "3560"
+  },
+  {
+    "criteria": "DO1S99男04",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "04",
+    "ins_fee": "3602"
+  },
+  {
+    "criteria": "DO1S99男05",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "05",
+    "ins_fee": "3649"
+  },
+  {
+    "criteria": "DO1S99男06",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "06",
+    "ins_fee": "3693"
+  },
+  {
+    "criteria": "DO1S99男07",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "07",
+    "ins_fee": "3738"
+  },
+  {
+    "criteria": "DO1S99男08",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "08",
+    "ins_fee": "3782"
+  },
+  {
+    "criteria": "DO1S99男09",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "09",
+    "ins_fee": "3833"
+  },
+  {
+    "criteria": "DO1S99男10",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "10",
+    "ins_fee": "3878"
+  },
+  {
+    "criteria": "DO1S99男11",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "11",
+    "ins_fee": "3929"
+  },
+  {
+    "criteria": "DO1S99男12",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "12",
+    "ins_fee": "3976"
+  },
+  {
+    "criteria": "DO1S99男13",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "13",
+    "ins_fee": "4024"
+  },
+  {
+    "criteria": "DO1S99男14",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "14",
+    "ins_fee": "4074"
+  },
+  {
+    "criteria": "DO1S99男15",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "15",
+    "ins_fee": "4128"
+  },
+  {
+    "criteria": "DO1S99男16",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "16",
+    "ins_fee": "4179"
+  },
+  {
+    "criteria": "DO1S99男17",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "17",
+    "ins_fee": "4228"
+  },
+  {
+    "criteria": "DO1S99男18",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "18",
+    "ins_fee": "4285"
+  },
+  {
+    "criteria": "DO1S99男19",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "19",
+    "ins_fee": "4338"
+  },
+  {
+    "criteria": "DO1S99男20",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "20",
+    "ins_fee": "4391"
+  },
+  {
+    "criteria": "DO1S99男21",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "21",
+    "ins_fee": "4445"
+  },
+  {
+    "criteria": "DO1S99男22",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "22",
+    "ins_fee": "4500"
+  },
+  {
+    "criteria": "DO1S99男23",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "23",
+    "ins_fee": "4562"
+  },
+  {
+    "criteria": "DO1S99男24",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "24",
+    "ins_fee": "4617"
+  },
+  {
+    "criteria": "DO1S99男25",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "25",
+    "ins_fee": "4674"
+  },
+  {
+    "criteria": "DO1S99男26",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "26",
+    "ins_fee": "4728"
+  },
+  {
+    "criteria": "DO1S99男27",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "27",
+    "ins_fee": "4788"
+  },
+  {
+    "criteria": "DO1S99男28",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "28",
+    "ins_fee": "4850"
+  },
+  {
+    "criteria": "DO1S99男29",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "29",
+    "ins_fee": "4908"
+  },
+  {
+    "criteria": "DO1S99男30",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "30",
+    "ins_fee": "4970"
+  },
+  {
+    "criteria": "DO1S99男31",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "31",
+    "ins_fee": "5032"
+  },
+  {
+    "criteria": "DO1S99男32",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "32",
+    "ins_fee": "5095"
+  },
+  {
+    "criteria": "DO1S99男33",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "33",
+    "ins_fee": "5159"
+  },
+  {
+    "criteria": "DO1S99男34",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "34",
+    "ins_fee": "5224"
+  },
+  {
+    "criteria": "DO1S99男35",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "35",
+    "ins_fee": "5289"
+  },
+  {
+    "criteria": "DO1S99男36",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "36",
+    "ins_fee": "5355"
+  },
+  {
+    "criteria": "DO1S99男37",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "37",
+    "ins_fee": "5423"
+  },
+  {
+    "criteria": "DO1S99男38",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "38",
+    "ins_fee": "5490"
+  },
+  {
+    "criteria": "DO1S99男39",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "39",
+    "ins_fee": "5558"
+  },
+  {
+    "criteria": "DO1S99男40",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "40",
+    "ins_fee": "5628"
+  },
+  {
+    "criteria": "DO1S99男41",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "41",
+    "ins_fee": "5699"
+  },
+  {
+    "criteria": "DO1S99男42",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "42",
+    "ins_fee": "5771"
+  },
+  {
+    "criteria": "DO1S99男43",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "43",
+    "ins_fee": "5843"
+  },
+  {
+    "criteria": "DO1S99男44",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "44",
+    "ins_fee": "5917"
+  },
+  {
+    "criteria": "DO1S99男45",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "45",
+    "ins_fee": "5992"
+  },
+  {
+    "criteria": "DO1S99男46",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "46",
+    "ins_fee": "6066"
+  },
+  {
+    "criteria": "DO1S99男47",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "47",
+    "ins_fee": "6143"
+  },
+  {
+    "criteria": "DO1S99男48",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "48",
+    "ins_fee": "6220"
+  },
+  {
+    "criteria": "DO1S99男49",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "49",
+    "ins_fee": "6299"
+  },
+  {
+    "criteria": "DO1S99男50",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "50",
+    "ins_fee": "6377"
+  },
+  {
+    "criteria": "DO1S99男51",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "51",
+    "ins_fee": "6458"
+  },
+  {
+    "criteria": "DO1S99男52",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "52",
+    "ins_fee": "6540"
+  },
+  {
+    "criteria": "DO1S99男53",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "53",
+    "ins_fee": "6621"
+  },
+  {
+    "criteria": "DO1S99男54",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "54",
+    "ins_fee": "6706"
+  },
+  {
+    "criteria": "DO1S99男55",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "55",
+    "ins_fee": "6791"
+  },
+  {
+    "criteria": "DO1S99男56",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "56",
+    "ins_fee": "6877"
+  },
+  {
+    "criteria": "DO1S99男57",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "57",
+    "ins_fee": "6963"
+  },
+  {
+    "criteria": "DO1S99男58",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "58",
+    "ins_fee": "7053"
+  },
+  {
+    "criteria": "DO1S99男59",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "59",
+    "ins_fee": "7141"
+  },
+  {
+    "criteria": "DO1S99男60",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "60",
+    "ins_fee": "7233"
+  },
+  {
+    "criteria": "DO1S99男61",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "61",
+    "ins_fee": "7326"
+  },
+  {
+    "criteria": "DO1S99男62",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "62",
+    "ins_fee": "7419"
+  },
+  {
+    "criteria": "DO1S99男63",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "63",
+    "ins_fee": "7515"
+  },
+  {
+    "criteria": "DO1S99男64",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "64",
+    "ins_fee": "7611"
+  },
+  {
+    "criteria": "DO1S99男65",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "65",
+    "ins_fee": "7709"
+  },
+  {
+    "criteria": "DO1S99男66",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "66",
+    "ins_fee": "7809"
+  },
+  {
+    "criteria": "DO1S99男67",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "67",
+    "ins_fee": "7911"
+  },
+  {
+    "criteria": "DO1S99男68",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "68",
+    "ins_fee": "8015"
+  },
+  {
+    "criteria": "DO1S99男69",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "69",
+    "ins_fee": "8121"
+  },
+  {
+    "criteria": "DO1S99男70",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "70",
+    "ins_fee": "8228"
+  },
+  {
+    "criteria": "DO1S99男71",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "71",
+    "ins_fee": "8338"
+  },
+  {
+    "criteria": "DO1S99男72",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "72",
+    "ins_fee": "8452"
+  },
+  {
+    "criteria": "DO1S99男73",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "73",
+    "ins_fee": "8565"
+  },
+  {
+    "criteria": "DO1S99男74",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "74",
+    "ins_fee": "8682"
+  },
+  {
+    "criteria": "DO1S99男75",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "75",
+    "ins_fee": "8805"
+  },
+  {
+    "criteria": "DO1S99男76",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "76",
+    "ins_fee": "9217"
+  },
+  {
+    "criteria": "DO1S99男77",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "77",
+    "ins_fee": "9297"
+  },
+  {
+    "criteria": "DO1S99男78",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "78",
+    "ins_fee": "9384"
+  },
+  {
+    "criteria": "DO1S99男79",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "79",
+    "ins_fee": "9492"
+  },
+  {
+    "criteria": "DO1S99男80",
+    "insurance_type": "DO1S99",
+    "gender": "男",
+    "age": "80",
+    "ins_fee": "9587"
+  },
+  {
+    "criteria": "DO1S99女00",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "00",
+    "ins_fee": "3432"
+  },
+  {
+    "criteria": "DO1S99女01",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "01",
+    "ins_fee": "3476"
+  },
+  {
+    "criteria": "DO1S99女02",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "02",
+    "ins_fee": "3514"
+  },
+  {
+    "criteria": "DO1S99女03",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "03",
+    "ins_fee": "3560"
+  },
+  {
+    "criteria": "DO1S99女04",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "04",
+    "ins_fee": "3602"
+  },
+  {
+    "criteria": "DO1S99女05",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "05",
+    "ins_fee": "3649"
+  },
+  {
+    "criteria": "DO1S99女06",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "06",
+    "ins_fee": "3693"
+  },
+  {
+    "criteria": "DO1S99女07",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "07",
+    "ins_fee": "3738"
+  },
+  {
+    "criteria": "DO1S99女08",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "08",
+    "ins_fee": "3782"
+  },
+  {
+    "criteria": "DO1S99女09",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "09",
+    "ins_fee": "3833"
+  },
+  {
+    "criteria": "DO1S99女10",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "10",
+    "ins_fee": "3878"
+  },
+  {
+    "criteria": "DO1S99女11",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "11",
+    "ins_fee": "3929"
+  },
+  {
+    "criteria": "DO1S99女12",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "12",
+    "ins_fee": "3976"
+  },
+  {
+    "criteria": "DO1S99女13",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "13",
+    "ins_fee": "4024"
+  },
+  {
+    "criteria": "DO1S99女14",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "14",
+    "ins_fee": "4074"
+  },
+  {
+    "criteria": "DO1S99女15",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "15",
+    "ins_fee": "4128"
+  },
+  {
+    "criteria": "DO1S99女16",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "16",
+    "ins_fee": "4179"
+  },
+  {
+    "criteria": "DO1S99女17",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "17",
+    "ins_fee": "4228"
+  },
+  {
+    "criteria": "DO1S99女18",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "18",
+    "ins_fee": "4285"
+  },
+  {
+    "criteria": "DO1S99女19",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "19",
+    "ins_fee": "4338"
+  },
+  {
+    "criteria": "DO1S99女20",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "20",
+    "ins_fee": "4391"
+  },
+  {
+    "criteria": "DO1S99女21",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "21",
+    "ins_fee": "4445"
+  },
+  {
+    "criteria": "DO1S99女22",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "22",
+    "ins_fee": "4500"
+  },
+  {
+    "criteria": "DO1S99女23",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "23",
+    "ins_fee": "4562"
+  },
+  {
+    "criteria": "DO1S99女24",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "24",
+    "ins_fee": "4617"
+  },
+  {
+    "criteria": "DO1S99女25",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "25",
+    "ins_fee": "4674"
+  },
+  {
+    "criteria": "DO1S99女26",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "26",
+    "ins_fee": "4728"
+  },
+  {
+    "criteria": "DO1S99女27",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "27",
+    "ins_fee": "4788"
+  },
+  {
+    "criteria": "DO1S99女28",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "28",
+    "ins_fee": "4850"
+  },
+  {
+    "criteria": "DO1S99女29",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "29",
+    "ins_fee": "4908"
+  },
+  {
+    "criteria": "DO1S99女30",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "30",
+    "ins_fee": "4970"
+  },
+  {
+    "criteria": "DO1S99女31",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "31",
+    "ins_fee": "5032"
+  },
+  {
+    "criteria": "DO1S99女32",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "32",
+    "ins_fee": "5095"
+  },
+  {
+    "criteria": "DO1S99女33",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "33",
+    "ins_fee": "5159"
+  },
+  {
+    "criteria": "DO1S99女34",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "34",
+    "ins_fee": "5224"
+  },
+  {
+    "criteria": "DO1S99女35",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "35",
+    "ins_fee": "5289"
+  },
+  {
+    "criteria": "DO1S99女36",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "36",
+    "ins_fee": "5355"
+  },
+  {
+    "criteria": "DO1S99女37",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "37",
+    "ins_fee": "5423"
+  },
+  {
+    "criteria": "DO1S99女38",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "38",
+    "ins_fee": "5490"
+  },
+  {
+    "criteria": "DO1S99女39",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "39",
+    "ins_fee": "5558"
+  },
+  {
+    "criteria": "DO1S99女40",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "40",
+    "ins_fee": "5628"
+  },
+  {
+    "criteria": "DO1S99女41",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "41",
+    "ins_fee": "5699"
+  },
+  {
+    "criteria": "DO1S99女42",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "42",
+    "ins_fee": "5771"
+  },
+  {
+    "criteria": "DO1S99女43",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "43",
+    "ins_fee": "5843"
+  },
+  {
+    "criteria": "DO1S99女44",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "44",
+    "ins_fee": "5917"
+  },
+  {
+    "criteria": "DO1S99女45",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "45",
+    "ins_fee": "5992"
+  },
+  {
+    "criteria": "DO1S99女46",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "46",
+    "ins_fee": "6066"
+  },
+  {
+    "criteria": "DO1S99女47",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "47",
+    "ins_fee": "6143"
+  },
+  {
+    "criteria": "DO1S99女48",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "48",
+    "ins_fee": "6220"
+  },
+  {
+    "criteria": "DO1S99女49",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "49",
+    "ins_fee": "6299"
+  },
+  {
+    "criteria": "DO1S99女50",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "50",
+    "ins_fee": "6377"
+  },
+  {
+    "criteria": "DO1S99女51",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "51",
+    "ins_fee": "6453"
+  },
+  {
+    "criteria": "DO1S99女52",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "52",
+    "ins_fee": "6535"
+  },
+  {
+    "criteria": "DO1S99女53",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "53",
+    "ins_fee": "6616"
+  },
+  {
+    "criteria": "DO1S99女54",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "54",
+    "ins_fee": "6701"
+  },
+  {
+    "criteria": "DO1S99女55",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "55",
+    "ins_fee": "6786"
+  },
+  {
+    "criteria": "DO1S99女56",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "56",
+    "ins_fee": "6867"
+  },
+  {
+    "criteria": "DO1S99女57",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "57",
+    "ins_fee": "6953"
+  },
+  {
+    "criteria": "DO1S99女58",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "58",
+    "ins_fee": "7043"
+  },
+  {
+    "criteria": "DO1S99女59",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "59",
+    "ins_fee": "7131"
+  },
+  {
+    "criteria": "DO1S99女60",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "60",
+    "ins_fee": "7223"
+  },
+  {
+    "criteria": "DO1S99女61",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "61",
+    "ins_fee": "7311"
+  },
+  {
+    "criteria": "DO1S99女62",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "62",
+    "ins_fee": "7404"
+  },
+  {
+    "criteria": "DO1S99女63",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "63",
+    "ins_fee": "7500"
+  },
+  {
+    "criteria": "DO1S99女64",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "64",
+    "ins_fee": "7596"
+  },
+  {
+    "criteria": "DO1S99女65",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "65",
+    "ins_fee": "7694"
+  },
+  {
+    "criteria": "DO1S99女66",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "66",
+    "ins_fee": "7789"
+  },
+  {
+    "criteria": "DO1S99女67",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "67",
+    "ins_fee": "7891"
+  },
+  {
+    "criteria": "DO1S99女68",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "68",
+    "ins_fee": "7995"
+  },
+  {
+    "criteria": "DO1S99女69",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "69",
+    "ins_fee": "8101"
+  },
+  {
+    "criteria": "DO1S99女70",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "70",
+    "ins_fee": "8208"
+  },
+  {
+    "criteria": "DO1S99女71",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "71",
+    "ins_fee": "8313"
+  },
+  {
+    "criteria": "DO1S99女72",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "72",
+    "ins_fee": "8427"
+  },
+  {
+    "criteria": "DO1S99女73",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "73",
+    "ins_fee": "8540"
+  },
+  {
+    "criteria": "DO1S99女74",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "74",
+    "ins_fee": "8657"
+  },
+  {
+    "criteria": "DO1S99女75",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "75",
+    "ins_fee": "8780"
+  },
+  {
+    "criteria": "DO1S99女76",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "76",
+    "ins_fee": "9187"
+  },
+  {
+    "criteria": "DO1S99女77",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "77",
+    "ins_fee": "9267"
+  },
+  {
+    "criteria": "DO1S99女78",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "78",
+    "ins_fee": "9354"
+  },
+  {
+    "criteria": "DO1S99女79",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "79",
+    "ins_fee": "9462"
+  },
+  {
+    "criteria": "DO1S99女80",
+    "insurance_type": "DO1S99",
+    "gender": "女",
+    "age": "80",
+    "ins_fee": "9557"
+  }
+]
