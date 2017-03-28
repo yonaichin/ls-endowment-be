@@ -20,5 +20,13 @@ export const HTTPLogger = (req) => {
           params,
           query } = req
 
-  console.log(`[${method}] ${originalUrl} , request payload: ${JSON.stringify(body)}, request query: ${JSON.stringify(query)}, request params: ${JSON.stringify(params)}`.rainbow)
+  console.log(`[${method}] ${originalUrl} , request payload: ${JSON.stringify(body)}, request query: ${JSON.stringify(query)}, request params: ${JSON.stringify(params)}`.green)
+}
+
+export const setModuleError = (message) => {
+  const status = {
+    code: 'error',
+    message
+  }
+  return status
 }
