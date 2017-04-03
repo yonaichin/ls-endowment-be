@@ -1,0 +1,51 @@
+[
+  {
+    "category_id": 1,
+    "ins_provider": "11",
+    "product_id": "DO1",
+    "product_name": "遠雄人壽美滿超優利利率變動型終身壽險(DO1)",
+    "ins_payment_period_available": [null],
+    "ins_min_amount": [
+      {
+        "ins_payment_period": null,
+        "ins_amount_by_period": 20
+      }
+    ],
+    "ins_rate": 0.0125,
+    "ins_rate_stated": 0.0301
+  },
+  {
+    "category_id": 1,
+    "ins_provider": "11",
+    "product_id": "DR1",
+    "product_name": "遠雄人壽美滿富豪利率變動型增額終身壽險(DR1)",
+    "ins_payment_period_available": [6, 10],
+    "ins_min_amount": [
+      {
+        "ins_payment_period": 6,
+        "ins_amount_by_period": 9
+      },
+      {
+        "ins_payment_period": 10,
+        "ins_amount_by_period": 10
+      }
+    ],
+    "ins_rate": 0.02,
+    "ins_rate_stated": 0.0272
+  },
+  {
+    "category_id": 2,
+    "ins_provider": "11",
+    "product_id": "ZJ1",
+    "product_name": "遠雄人壽美滿美夢美元利率變動型增額終身壽險試算表(106)(ZJ1)",
+    "ins_payment_period_available": [6],
+    "ins_min_amount": [
+      {
+        "ins_payment_period": 6,
+        "ins_amount_by_period": 3500
+      }
+    ],
+    "ins_rate": 0.025,
+    "ins_rate_stated": 0.036
+  }
+]
