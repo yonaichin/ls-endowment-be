@@ -25,15 +25,15 @@ export const get = (payload) => {
             ins_amount,
             ins_payment_period } = payload
 
-    const [{ ins_amount_by_period }] = _.filter(ins_min_amount, {ins_payment_period})
-    if (ins_amount < ins_amount_by_period) {
-      const errorStatus = setModuleError(`繳費 ${ins_payment_period} 年期最低保費為 ${ins_amount_by_period} 美元`)
-      reject(errorStatus)
-    }
     // Exception handling
     //
     if (ins_payment_period_available.indexOf(ins_payment_period) < 0) {
       const errorStatus = setModuleError(`${product_name}, 此商品的繳費年期為 ${_.replace(ins_payment_period_available, null, '躉繳')}`)
+      reject(errorStatus)
+    }
+    const [{ ins_amount_by_period }] = _.filter(ins_min_amount, {ins_payment_period})
+    if (ins_amount < ins_amount_by_period) {
+      const errorStatus = setModuleError(`繳費 ${ins_payment_period} 年期最低保費為 ${ins_amount_by_period} 美元`)
       reject(errorStatus)
     }
     const age = getInsuredAge(new Date(birthday))
