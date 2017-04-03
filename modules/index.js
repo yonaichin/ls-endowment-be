@@ -1,4 +1,5 @@
 import { get as getDO1 } from './DO1'
+import { get as getDR1 } from './DR1'
 import Promise from 'promise'
 
 class Module {
@@ -11,13 +12,13 @@ class Module {
     switch (this.product_id) {
       case 'DO1':
         return getDO1(this.insured_payload)
+      case 'DR1':
+        return getDR1(this.insured_payload)
       default :
         return new Promise((resolve, reject) => {
           reject({
-            status: {
-              code: 'error',
-              message: 'product doesnt exist'
-            }
+            code: 'error',
+            message: 'product doesnt exist'
           })
         })
 

@@ -1,0 +1,2060 @@
+[
+  {
+    "criteria": "DR1-06男00",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 0,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男01",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 1,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男02",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 2,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男03",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 3,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男04",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 4,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男05",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 5,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男06",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 6,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男07",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 7,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男08",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 8,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男09",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 9,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男10",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 10,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男11",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 11,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男12",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 12,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男13",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 13,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男14",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 14,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男15",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 15,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男16",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 16,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男17",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 17,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男18",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 18,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男19",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 19,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男20",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 20,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男21",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 21,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男22",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 22,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男23",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 23,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男24",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 24,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男25",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 25,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06男26",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 26,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男27",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 27,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男28",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 28,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男29",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 29,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男30",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 30,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男31",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 31,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男32",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 32,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男33",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 33,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男34",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 34,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男35",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 35,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06男36",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 36,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06男37",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 37,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06男38",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 38,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06男39",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 39,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06男40",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 40,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06男41",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 41,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06男42",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 42,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06男43",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 43,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06男44",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 44,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06男45",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 45,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06男46",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 46,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06男47",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 47,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06男48",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 48,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06男49",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 49,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06男50",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 50,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06男51",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 51,
+    "ins_fee": 3347
+  },
+  {
+    "criteria": "DR1-06男52",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 52,
+    "ins_fee": 3347
+  },
+  {
+    "criteria": "DR1-06男53",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 53,
+    "ins_fee": 3347
+  },
+  {
+    "criteria": "DR1-06男54",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 54,
+    "ins_fee": 3347
+  },
+  {
+    "criteria": "DR1-06男55",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 55,
+    "ins_fee": 3347
+  },
+  {
+    "criteria": "DR1-06男56",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 56,
+    "ins_fee": 3353
+  },
+  {
+    "criteria": "DR1-06男57",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 57,
+    "ins_fee": 3353
+  },
+  {
+    "criteria": "DR1-06男58",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 58,
+    "ins_fee": 3353
+  },
+  {
+    "criteria": "DR1-06男59",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 59,
+    "ins_fee": 3353
+  },
+  {
+    "criteria": "DR1-06男60",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 60,
+    "ins_fee": 3353
+  },
+  {
+    "criteria": "DR1-06男61",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 61,
+    "ins_fee": 3359
+  },
+  {
+    "criteria": "DR1-06男62",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 62,
+    "ins_fee": 3361
+  },
+  {
+    "criteria": "DR1-06男63",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 63,
+    "ins_fee": 3363
+  },
+  {
+    "criteria": "DR1-06男64",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 64,
+    "ins_fee": 3365
+  },
+  {
+    "criteria": "DR1-06男65",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 65,
+    "ins_fee": 3369
+  },
+  {
+    "criteria": "DR1-06男66",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 66,
+    "ins_fee": 3372
+  },
+  {
+    "criteria": "DR1-06男67",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 67,
+    "ins_fee": 3375
+  },
+  {
+    "criteria": "DR1-06男68",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 68,
+    "ins_fee": 3388
+  },
+  {
+    "criteria": "DR1-06男69",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 69,
+    "ins_fee": 3399
+  },
+  {
+    "criteria": "DR1-06男70",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 70,
+    "ins_fee": 3410
+  },
+  {
+    "criteria": "DR1-06男71",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 71,
+    "ins_fee": 3433
+  },
+  {
+    "criteria": "DR1-06男72",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 72,
+    "ins_fee": 3450
+  },
+  {
+    "criteria": "DR1-06男73",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 73,
+    "ins_fee": 3469
+  },
+  {
+    "criteria": "DR1-06男74",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 74,
+    "ins_fee": 3494
+  },
+  {
+    "criteria": "DR1-06男75",
+    "insurance_type": "DR1-06",
+    "gender": "男",
+    "age": 75,
+    "ins_fee": 3548
+  },
+  {
+    "criteria": "DR1-06女00",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 0,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女01",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 1,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女02",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 2,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女03",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 3,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女04",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 4,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女05",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 5,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女06",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 6,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女07",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 7,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女08",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 8,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女09",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 9,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女10",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 10,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女11",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 11,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女12",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 12,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女13",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 13,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女14",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 14,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女15",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 15,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女16",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 16,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女17",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 17,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女18",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 18,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女19",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 19,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女20",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 20,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女21",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 21,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女22",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 22,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女23",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 23,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女24",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 24,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女25",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 25,
+    "ins_fee": 3340
+  },
+  {
+    "criteria": "DR1-06女26",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 26,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女27",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 27,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女28",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 28,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女29",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 29,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女30",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 30,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女31",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 31,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女32",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 32,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女33",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 33,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女34",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 34,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女35",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 35,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女36",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 36,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女37",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 37,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女38",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 38,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女39",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 39,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女40",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 40,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女41",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 41,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女42",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 42,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女43",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 43,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女44",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 44,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女45",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 45,
+    "ins_fee": 3341
+  },
+  {
+    "criteria": "DR1-06女46",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 46,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06女47",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 47,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06女48",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 48,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06女49",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 49,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06女50",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 50,
+    "ins_fee": 3342
+  },
+  {
+    "criteria": "DR1-06女51",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 51,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06女52",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 52,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06女53",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 53,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06女54",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 54,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06女55",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 55,
+    "ins_fee": 3343
+  },
+  {
+    "criteria": "DR1-06女56",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 56,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06女57",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 57,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06女58",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 58,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06女59",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 59,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06女60",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 60,
+    "ins_fee": 3346
+  },
+  {
+    "criteria": "DR1-06女61",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 61,
+    "ins_fee": 3348
+  },
+  {
+    "criteria": "DR1-06女62",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 62,
+    "ins_fee": 3348
+  },
+  {
+    "criteria": "DR1-06女63",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 63,
+    "ins_fee": 3348
+  },
+  {
+    "criteria": "DR1-06女64",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 64,
+    "ins_fee": 3350
+  },
+  {
+    "criteria": "DR1-06女65",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 65,
+    "ins_fee": 3351
+  },
+  {
+    "criteria": "DR1-06女66",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 66,
+    "ins_fee": 3352
+  },
+  {
+    "criteria": "DR1-06女67",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 67,
+    "ins_fee": 3355
+  },
+  {
+    "criteria": "DR1-06女68",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 68,
+    "ins_fee": 3356
+  },
+  {
+    "criteria": "DR1-06女69",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 69,
+    "ins_fee": 3360
+  },
+  {
+    "criteria": "DR1-06女70",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 70,
+    "ins_fee": 3363
+  },
+  {
+    "criteria": "DR1-06女71",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 71,
+    "ins_fee": 3368
+  },
+  {
+    "criteria": "DR1-06女72",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 72,
+    "ins_fee": 3372
+  },
+  {
+    "criteria": "DR1-06女73",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 73,
+    "ins_fee": 3377
+  },
+  {
+    "criteria": "DR1-06女74",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 74,
+    "ins_fee": 3383
+  },
+  {
+    "criteria": "DR1-06女75",
+    "insurance_type": "DR1-06",
+    "gender": "女",
+    "age": 75,
+    "ins_fee": 3401
+  },
+  {
+    "criteria": "DR1-10男00",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 0,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男01",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 1,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男02",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 2,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男03",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 3,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男04",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 4,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男05",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 5,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男06",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 6,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男07",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 7,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男08",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 8,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男09",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 9,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男10",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 10,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男11",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 11,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男12",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 12,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男13",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 13,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男14",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 14,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男15",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 15,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男16",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 16,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男17",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 17,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男18",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 18,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男19",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 19,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男20",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 20,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男21",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 21,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男22",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 22,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男23",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 23,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男24",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 24,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男25",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 25,
+    "ins_fee": 1927
+  },
+  {
+    "criteria": "DR1-10男26",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 26,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10男27",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 27,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10男28",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 28,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10男29",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 29,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10男30",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 30,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10男31",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 31,
+    "ins_fee": 1932
+  },
+  {
+    "criteria": "DR1-10男32",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 32,
+    "ins_fee": 1932
+  },
+  {
+    "criteria": "DR1-10男33",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 33,
+    "ins_fee": 1932
+  },
+  {
+    "criteria": "DR1-10男34",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 34,
+    "ins_fee": 1932
+  },
+  {
+    "criteria": "DR1-10男35",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 35,
+    "ins_fee": 1932
+  },
+  {
+    "criteria": "DR1-10男36",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 36,
+    "ins_fee": 1934
+  },
+  {
+    "criteria": "DR1-10男37",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 37,
+    "ins_fee": 1934
+  },
+  {
+    "criteria": "DR1-10男38",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 38,
+    "ins_fee": 1934
+  },
+  {
+    "criteria": "DR1-10男39",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 39,
+    "ins_fee": 1934
+  },
+  {
+    "criteria": "DR1-10男40",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 40,
+    "ins_fee": 1934
+  },
+  {
+    "criteria": "DR1-10男41",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 41,
+    "ins_fee": 1940
+  },
+  {
+    "criteria": "DR1-10男42",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 42,
+    "ins_fee": 1942
+  },
+  {
+    "criteria": "DR1-10男43",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 43,
+    "ins_fee": 1942
+  },
+  {
+    "criteria": "DR1-10男44",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 44,
+    "ins_fee": 1943
+  },
+  {
+    "criteria": "DR1-10男45",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 45,
+    "ins_fee": 1944
+  },
+  {
+    "criteria": "DR1-10男46",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 46,
+    "ins_fee": 1944
+  },
+  {
+    "criteria": "DR1-10男47",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 47,
+    "ins_fee": 1950
+  },
+  {
+    "criteria": "DR1-10男48",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 48,
+    "ins_fee": 1952
+  },
+  {
+    "criteria": "DR1-10男49",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 49,
+    "ins_fee": 1952
+  },
+  {
+    "criteria": "DR1-10男50",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 50,
+    "ins_fee": 1954
+  },
+  {
+    "criteria": "DR1-10男51",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 51,
+    "ins_fee": 1963
+  },
+  {
+    "criteria": "DR1-10男52",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 52,
+    "ins_fee": 1963
+  },
+  {
+    "criteria": "DR1-10男53",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 53,
+    "ins_fee": 1963
+  },
+  {
+    "criteria": "DR1-10男54",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 54,
+    "ins_fee": 1964
+  },
+  {
+    "criteria": "DR1-10男55",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 55,
+    "ins_fee": 1965
+  },
+  {
+    "criteria": "DR1-10男56",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 56,
+    "ins_fee": 1966
+  },
+  {
+    "criteria": "DR1-10男57",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 57,
+    "ins_fee": 1967
+  },
+  {
+    "criteria": "DR1-10男58",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 58,
+    "ins_fee": 1968
+  },
+  {
+    "criteria": "DR1-10男59",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 59,
+    "ins_fee": 1968
+  },
+  {
+    "criteria": "DR1-10男60",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 60,
+    "ins_fee": 1970
+  },
+  {
+    "criteria": "DR1-10男61",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 61,
+    "ins_fee": 1972
+  },
+  {
+    "criteria": "DR1-10男62",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 62,
+    "ins_fee": 1974
+  },
+  {
+    "criteria": "DR1-10男63",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 63,
+    "ins_fee": 1976
+  },
+  {
+    "criteria": "DR1-10男64",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 64,
+    "ins_fee": 1978
+  },
+  {
+    "criteria": "DR1-10男65",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 65,
+    "ins_fee": 1981
+  },
+  {
+    "criteria": "DR1-10男66",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 66,
+    "ins_fee": 1984
+  },
+  {
+    "criteria": "DR1-10男67",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 67,
+    "ins_fee": 1988
+  },
+  {
+    "criteria": "DR1-10男68",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 68,
+    "ins_fee": 1993
+  },
+  {
+    "criteria": "DR1-10男69",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 69,
+    "ins_fee": 2005
+  },
+  {
+    "criteria": "DR1-10男70",
+    "insurance_type": "DR1-10",
+    "gender": "男",
+    "age": 70,
+    "ins_fee": 2023
+  },
+  {
+    "criteria": "DR1-10女00",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 0,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女01",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 1,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女02",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 2,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女03",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 3,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女04",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 4,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女05",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 5,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女06",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 6,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女07",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 7,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女08",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 8,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女09",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 9,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女10",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 10,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女11",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 11,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女12",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 12,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女13",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 13,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女14",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 14,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女15",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 15,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女16",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 16,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女17",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 17,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女18",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 18,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女19",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 19,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女20",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 20,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女21",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 21,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女22",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 22,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女23",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 23,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女24",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 24,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女25",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 25,
+    "ins_fee": 1928
+  },
+  {
+    "criteria": "DR1-10女26",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 26,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女27",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 27,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女28",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 28,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女29",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 29,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女30",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 30,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女31",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 31,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女32",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 32,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女33",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 33,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女34",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 34,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女35",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 35,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女36",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 36,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女37",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 37,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女38",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 38,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女39",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 39,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女40",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 40,
+    "ins_fee": 1931
+  },
+  {
+    "criteria": "DR1-10女41",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 41,
+    "ins_fee": 1938
+  },
+  {
+    "criteria": "DR1-10女42",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 42,
+    "ins_fee": 1939
+  },
+  {
+    "criteria": "DR1-10女43",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 43,
+    "ins_fee": 1940
+  },
+  {
+    "criteria": "DR1-10女44",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 44,
+    "ins_fee": 1940
+  },
+  {
+    "criteria": "DR1-10女45",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 45,
+    "ins_fee": 1941
+  },
+  {
+    "criteria": "DR1-10女46",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 46,
+    "ins_fee": 1942
+  },
+  {
+    "criteria": "DR1-10女47",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 47,
+    "ins_fee": 1947
+  },
+  {
+    "criteria": "DR1-10女48",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 48,
+    "ins_fee": 1950
+  },
+  {
+    "criteria": "DR1-10女49",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 49,
+    "ins_fee": 1950
+  },
+  {
+    "criteria": "DR1-10女50",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 50,
+    "ins_fee": 1952
+  },
+  {
+    "criteria": "DR1-10女51",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 51,
+    "ins_fee": 1958
+  },
+  {
+    "criteria": "DR1-10女52",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 52,
+    "ins_fee": 1958
+  },
+  {
+    "criteria": "DR1-10女53",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 53,
+    "ins_fee": 1958
+  },
+  {
+    "criteria": "DR1-10女54",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 54,
+    "ins_fee": 1958
+  },
+  {
+    "criteria": "DR1-10女55",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 55,
+    "ins_fee": 1959
+  },
+  {
+    "criteria": "DR1-10女56",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 56,
+    "ins_fee": 1959
+  },
+  {
+    "criteria": "DR1-10女57",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 57,
+    "ins_fee": 1959
+  },
+  {
+    "criteria": "DR1-10女58",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 58,
+    "ins_fee": 1962
+  },
+  {
+    "criteria": "DR1-10女59",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 59,
+    "ins_fee": 1962
+  },
+  {
+    "criteria": "DR1-10女60",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 60,
+    "ins_fee": 1963
+  },
+  {
+    "criteria": "DR1-10女61",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 61,
+    "ins_fee": 1963
+  },
+  {
+    "criteria": "DR1-10女62",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 62,
+    "ins_fee": 1964
+  },
+  {
+    "criteria": "DR1-10女63",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 63,
+    "ins_fee": 1965
+  },
+  {
+    "criteria": "DR1-10女64",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 64,
+    "ins_fee": 1966
+  },
+  {
+    "criteria": "DR1-10女65",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 65,
+    "ins_fee": 1968
+  },
+  {
+    "criteria": "DR1-10女66",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 66,
+    "ins_fee": 1970
+  },
+  {
+    "criteria": "DR1-10女67",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 67,
+    "ins_fee": 1972
+  },
+  {
+    "criteria": "DR1-10女68",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 68,
+    "ins_fee": 1973
+  },
+  {
+    "criteria": "DR1-10女69",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 69,
+    "ins_fee": 1976
+  },
+  {
+    "criteria": "DR1-10女70",
+    "insurance_type": "DR1-10",
+    "gender": "女",
+    "age": 70,
+    "ins_fee": 1979
+  }
+]
