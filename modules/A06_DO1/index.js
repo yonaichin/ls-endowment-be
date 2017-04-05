@@ -35,7 +35,7 @@ export const get = (payload) => {
     // 最低保額 20 萬元
     const [{ ins_amount_by_period }] = _.filter(ins_min_amount, {ins_payment_period})
     if (ins_amount < ins_amount_by_period) {
-      const errorStatus = setModuleError(`繳費${_.replace(ins_payment_period, null, '躉繳')} 年期最低保費為 ${ins_amount_by_period} 萬元`)
+      const errorStatus = setModuleError(`保費${ins_payment_period === null ? '躉繳' : ins_payment_period}年期最低保費為 ${ins_amount_by_period} 萬元`)
       reject(errorStatus)
     }
 

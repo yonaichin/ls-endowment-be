@@ -38,7 +38,7 @@
         "ins_amount_by_period": 5000
       }
     ],
-    "ins_rate": 0.0245,
+    "ins_rate": null,
     "ins_rate_stated": 0.038
   },
   {

@@ -9,13 +9,14 @@ const insuredPayload = {
 const dollarPayload = {
   birthday: '1991/12/06',
   gender: 'female',
-  ins_amount: 3500, // 1,000,000
-  ins_payment_period: 6, // 躉繳 = null, else 年繳
+  ins_amount: 5000, // 1,000,000
+  ins_payment_period: null, // 躉繳 = null, else 年繳
 }
 const moduleDO1 = new Module('A06_DO1', insuredPayload)
 const moduleDR1 = new Module('A06_DR1', insuredPayload)
 
 const moduleZJ1 = new Module('A06_ZJ1', dollarPayload)
+const moduleA03_FAS = new Module('A03_FAS', dollarPayload)
 
 // Promise.all([ moduleDO1.get(),
 //               moduleDR1.get()
@@ -31,7 +32,7 @@ const moduleZJ1 = new Module('A06_ZJ1', dollarPayload)
 
 
 
-moduleZJ1.get().then((res) => {
+moduleA03_FAS.get().then((res) => {
   console.log(res)
 }, (err) => {
   console.log(err)
