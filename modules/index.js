@@ -1,6 +1,6 @@
-import { get as getDO1 } from './DO1'
-import { get as getDR1 } from './DR1'
-import { get as getZJ1 } from './ZJ1'
+import { get as getA06_DO1 } from './A06_DO1'
+import { get as getA06_DR1 } from './A06_DR1'
+import { get as getA06_ZJ1 } from './A06_ZJ1'
 import Promise from 'promise'
 
 class Module {
@@ -11,12 +11,12 @@ class Module {
   get () {
     console.log('get modules', this.product_id)
     switch (this.product_id) {
-      case 'DO1':
-        return getDO1(this.insured_payload)
-      case 'DR1':
-        return getDR1(this.insured_payload)
-      case 'ZJ1':
-        return getZJ1(this.insured_payload)
+      case 'A06_DO1':
+        return getA06_DO1(this.insured_payload)
+      case 'A06_DR1':
+        return getA06_DR1(this.insured_payload)
+      case 'A06_ZJ1':
+        return getA06_ZJ1(this.insured_payload)
       default :
         return new Promise((resolve, reject) => {
           reject({

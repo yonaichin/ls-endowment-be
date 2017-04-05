@@ -12,9 +12,10 @@ const dollarPayload = {
   ins_amount: 3500, // 1,000,000
   ins_payment_period: 6, // 躉繳 = null, else 年繳
 }
-const moduleDO1 = new Module('DO1', insuredPayload)
-const moduleDR1 = new Module('DR1', insuredPayload)
-const moduleZJ1 = new Module('ZJ1', dollarPayload)
+const moduleDO1 = new Module('A06_DO1', insuredPayload)
+const moduleDR1 = new Module('A06_DR1', insuredPayload)
+
+const moduleZJ1 = new Module('A06_ZJ1', dollarPayload)
 
 // Promise.all([ moduleDO1.get(),
 //               moduleDR1.get()
